@@ -1,0 +1,39 @@
+{
+  "name": "numpy",
+  "version": "2.5.4",
+  "build": "py312hd8d2248_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/osx-arm64",
+  "subdir": "osx-arm64",
+  "fn": "numpy-2.5.4-py312hd8d2248_0.conda",
+  "md5": "33a898a1d3e118d129af718cf453f7d1",
+  "url": "https://repo.anaconda.com/pkgs/main/osx-arm64/numpy-2.5.4-py312hd8d2248_0.conda",
+  "sha256": "d67081542280e3fef299d9d3fbb6e90d2529c2c6ccd5d0aea9a48bd4c48e040c",
+  "depends": [
+    "__osx >=12.1",
+    "blas * openblas",
+    "libcxx >=17",
+    "libopenblas >=0.3.31,<1.0a0",
+    "numpy-base 2.5.4 py312hb4b2851_0",
+    "python >=3.12,<3.13.0a0"
+  ],
+  "constrains": [],
+  "license": "BSD-3-Clause AND 0BSD AND MIT AND Zlib AND CC0-1.0",
+  "timestamp": 1792497742000,
+  "size": 20253,
+  "requested_spec": "numpy",
+  "package_tarball_full_path": "/opt/homebrew/Caskroom/miniconda/base/pkgs/numpy-2.5.4-py312hd8d2248_0.conda",
+  "extracted_package_dir": "/opt/homebrew/Caskroom/miniconda/base/pkgs/numpy-2.5.4-py312hd8d2248_0",
+  "files": [],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": []
+  },
+  "link": {
+    "source": "/opt/homebrew/Caskroom/miniconda/base/pkgs/numpy-2.5.4-py312hd8d2248_0",
+    "type": 1
+  },
+  "requested_specs": [
+    "numpy"
+  ]
+}

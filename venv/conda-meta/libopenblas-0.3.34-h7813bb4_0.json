@@ -1,0 +1,78 @@
+{
+  "name": "libopenblas",
+  "version": "0.3.34",
+  "build": "h7813bb4_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/osx-arm64",
+  "subdir": "osx-arm64",
+  "fn": "libopenblas-0.3.34-h7813bb4_0.conda",
+  "md5": "2569c86c8ca838765b35bafa6ac8f21d",
+  "url": "https://repo.anaconda.com/pkgs/main/osx-arm64/libopenblas-0.3.34-h7813bb4_0.conda",
+  "sha256": "3a693f5aabc2f6a7f633a7352f3f51c21ca7781323cd423eb4853916064b08c3",
+  "depends": [
+    "__osx >=12.1",
+    "libgfortran",
+    "libgfortran5 >=14.3.0"
+  ],
+  "constrains": [],
+  "license": "BSD-3-Clause",
+  "timestamp": 1792708373000,
+  "size": 4434000,
+  "_requested_specs": [],
+  "package_tarball_full_path": "/opt/homebrew/Caskroom/miniconda/base/pkgs/libopenblas-0.3.34-h7813bb4_0.conda",
+  "extracted_package_dir": "/opt/homebrew/Caskroom/miniconda/base/pkgs/libopenblas-0.3.34-h7813bb4_0",
+  "files": [
+    "lib/libblas.dylib",
+    "lib/libcblas.dylib",
+    "lib/liblapack.dylib",
+    "lib/libopenblas.0.dylib",
+    "lib/libopenblas.dylib",
+    "lib/libopenblasp-r0.3.34.dylib"
+  ],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": [
+      {
+        "_path": "lib/libblas.dylib",
+        "path_type": "softlink",
+        "sha256": "d959d43f2a06b3bff2e04822da3ae3940ef16cda03c38073c45e502c6a89d07c",
+        "size_in_bytes": 14516080
+      },
+      {
+        "_path": "lib/libcblas.dylib",
+        "path_type": "softlink",
+        "sha256": "d959d43f2a06b3bff2e04822da3ae3940ef16cda03c38073c45e502c6a89d07c",
+        "size_in_bytes": 14516080
+      },
+      {
+        "_path": "lib/liblapack.dylib",
+        "path_type": "softlink",
+        "sha256": "d959d43f2a06b3bff2e04822da3ae3940ef16cda03c38073c45e502c6a89d07c",
+        "size_in_bytes": 14516080
+      },
+      {
+        "_path": "lib/libopenblas.0.dylib",
+        "path_type": "softlink",
+        "sha256": "d959d43f2a06b3bff2e04822da3ae3940ef16cda03c38073c45e502c6a89d07c",
+        "size_in_bytes": 14516080
+      },
+      {
+        "_path": "lib/libopenblas.dylib",
+        "path_type": "softlink",
+        "sha256": "d959d43f2a06b3bff2e04822da3ae3940ef16cda03c38073c45e502c6a89d07c",
+        "size_in_bytes": 14516080
+      },
+      {
+        "_path": "lib/libopenblasp-r0.3.34.dylib",
+        "path_type": "hardlink",
+        "sha256": "d959d43f2a06b3bff2e04822da3ae3940ef16cda03c38073c45e502c6a89d07c",
+        "size_in_bytes": 14516080,
+        "sha256_in_prefix": "d959d43f2a06b3bff2e04822da3ae3940ef16cda03c38073c45e502c6a89d07c"
+      }
+    ]
+  },
+  "link": {
+    "source": "/opt/homebrew/Caskroom/miniconda/base/pkgs/libopenblas-0.3.34-h7813bb4_0",
+    "type": 1
+  }
+}
